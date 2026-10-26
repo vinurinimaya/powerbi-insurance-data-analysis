@@ -1,6 +1,6 @@
 # Insurance-Data-Analysis-Dashboard
 
-### Dashboard Link : <paste your Power BI Service report link here>
+### Dashboard Link : (https://app.powerbi.com/groups/me/dashboards/306ea58b-2b8e-4315-adf1-41c67f6bb5ac?ctid=bd5f40b7-f64c-4225-8b0d-c515ce5e13d8&pbi_source=linkShare)
 
 ## Problem Statement
 
@@ -16,7 +16,7 @@ By identifying the policy types, age groups and claim statuses that need attenti
 | `PBI_Project_2.pbix` | Power BI file containing the data model only (no report pages) |
 | `README.md` | Project documentation (this file) |
 
-> **Opening the report:** requires [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (Windows).
+> **Report Link:** https://app.powerbi.com/links/o1xL3e3c1v?ctid=bd5f40b7-f64c-4225-8b0d-c515ce5e13d8&pbi_source=linkShare
 
 ### Steps followed
 
