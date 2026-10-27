@@ -52,13 +52,14 @@ Age Group = <your DAX>
 Active /Inactive = <your DAX>
 ```
 
-# Snapshot of Dashboard (Power BI Service)
+# Snapshot of Dashboard 
+![Overall Dashboard](assets/Dashboard.png)
 
-<add screenshot here>
+# Report Snapshot 
 
-# Report Snapshot (Power BI DESKTOP)
-
-<add one screenshot per page: Overview, Table, Sentiment Analysis>
+![snap1](assets/page1)
+![snap2](assets/page2)
+![snap3](assets/page3)
 
 # Insights
 
