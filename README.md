@@ -1,6 +1,13 @@
-# Insurance-Data-Analysis-Dashboard
+<H1 align="Center">
+Insurance Data Analysis Report
+</H1>
 
-### Dashboard Link : (https://app.powerbi.com/groups/me/dashboards/306ea58b-2b8e-4315-adf1-41c67f6bb5ac?ctid=bd5f40b7-f64c-4225-8b0d-c515ce5e13d8&pbi_source=linkShare)
+<H3 align="center">
+Dashboard Link
+  <a href="https://app.powerbi.com/groups/me/dashboards/306ea58b-2b8e-4315-adf1-41c67f6bb5ac?ctid=bd5f40b7-f64c-4225-8b0d-c515ce5e13d8&pbi_source=linkShare">
+    <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="PowerBI">
+  </a>
+</H3>
 
 ## Problem Statement
 
@@ -57,9 +64,9 @@ Active /Inactive = <your DAX>
 
 # Report Snapshot 
 
-![snap1](assets/page1)
-![snap2](assets/page2)
-![snap3](assets/page3)
+![snap1](assets/page1.png)
+![snap2](assets/page2.png)
+![snap3](assets/page3.png)
 
 # Insights
 
